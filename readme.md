@@ -45,5 +45,6 @@ O frontend completo está disponível no repositório:
 Crie um arquivo `.env` na raiz com as seguintes variáveis:
 
 ```env
+PORT = 3333
 DATABASE_URL=postgres://usuario:senha@localhost:5432/nomedobanco
 GEMINI_API_KEY=sua_chave_api_google_genai
