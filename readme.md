@@ -39,3 +39,11 @@ Este backend oferece uma API que:
 
 O frontend completo está disponível no repositório:  
 🔗 [nlwAgentsFrontEnd](https://github.com/eliaberr/nlwAgentsFrontEnd.git)
+
+## 🔐 Variáveis de Ambiente
+
+Crie um arquivo `.env` na raiz com as seguintes variáveis:
+
+```env
+DATABASE_URL=postgres://usuario:senha@localhost:5432/nomedobanco
+GEMINI_API_KEY=sua_chave_api_google_genai
