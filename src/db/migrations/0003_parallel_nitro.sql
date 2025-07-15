@@ -1,0 +1,1 @@
+ALTER TABLE "audio-chunks" RENAME COLUMN "trancription" TO "transcription";

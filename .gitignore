@@ -1,0 +1,8 @@
+# Node
+node_modules
+dist
+build
+.out
+
+# Arquivos de ambiente
+.env

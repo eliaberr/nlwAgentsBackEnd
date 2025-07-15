@@ -15,6 +15,20 @@
       "when": 1752175118687,
       "tag": "0001_young_impossible_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752585049617,
+      "tag": "0002_bouncy_invisible_woman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752601874443,
+      "tag": "0003_parallel_nitro",
+      "breakpoints": true
     }
   ]
 }
